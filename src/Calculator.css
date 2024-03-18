@@ -11,10 +11,10 @@
     padding: 0 20px;
     font-size: 30px;
     text-align: right;
-    background-color: #444;
-    color: white;
     border-radius: 10px;
     margin: 5px;
+    color: white;
+    background-color: #444;
     box-shadow:inset 0px 0px 10px 3px #000;
 }
 
@@ -28,13 +28,14 @@ button{
     height: 70px;
     border: none;
     outline: none;
-    color: white;
-    background-color:#444;
     cursor: pointer;
     font-size: 25px;
-    margin: 2px;
-    box-shadow:inset 0px 0px 10px 2px #000;
     border-radius: 3px;
+    margin: 2px;
+    color: white;
+    background-color:#444;
+    box-shadow:inset 0px 0px 10px 2px #000;
+    
 }
 
 .col-2{
